@@ -17,7 +17,26 @@
 ## Description
 
 Practice using client, creating datasets and tables with SQL and BigQuery.
-Create data visualization on Looker Studio  
+Create data visualization on Looker Studio
+
+For data visualization, I chose "Music and Mental Health Survey Result". The purpose of this survey is to identify, if any, correlations exist between an individual's music taste adn their self-reported mental health. The dataset can be found here: https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results
+
+After working with the dataset, I found out that:
+
+[<img src="./img/pie_chart.jpg" width='700'/>](./img/pie_chart.jpg)
+
+    * Group 1: 75.5% of individual said that music improve their mental health
+    * Group 2: 22.1% said there is no no effects
+    * Group 3: 2.4% said music worsen their moods
+  
+I thought maybe the amount of hours they spend to listen to music or the BPM might be the cause, but none of them was right.
+You can see the three images below. All of them spend about the same amount of hours to listen to music and the average BPM also the same.
+
+[<img src="./img/improve.jpg" width='700'/>](./img/improve.jpg)
+
+[<img src="./img/no_effect.jpg" width='700'/>](./img/no_effect.jpg)
+
+[<img src="./img/worsen.jpg" width='700'/>](./img/worsen.jpg)
 
 ## Setup/Installation Requirements
 
