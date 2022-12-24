@@ -32,12 +32,15 @@ After working with the dataset, I found out that:
 I thought maybe the amount of hours they spend to listen to music or the BPM might be the cause, but none of them was right.
 You can see the three images below. All of them spend about the same amount of hours to listen to music and the average BPM also the same.
   * Group 1
+  
 [<img src="./img/improve.jpg" width='700'/>](./img/improve.jpg)
 
   * Group 2
+  
 [<img src="./img/no_effect.jpg" width='700'/>](./img/no_effect.jpg)
 
   * Group 3
+  
 [<img src="./img/worsen.jpg" width='700'/>](./img/worsen.jpg)
 
 ## Setup/Installation Requirements
